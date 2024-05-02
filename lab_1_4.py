@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-import scipy.fftpack
-import time as pTime
+
 
 #  3.4
 def sigmoid_activation(v, a=1):
